@@ -1,5 +1,5 @@
 ---
-title: " human-expertise based statistical method foranalysis of log data from a commuter ferry"
+title: " Human-expertise based statistical method foranalysis of log data from a commuter ferry"
 collection: publications
 permalink: /publication/2020-iciea-human
 date: 2020-06-30
