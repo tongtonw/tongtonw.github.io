@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
+Welcome! 
+
+<!-- I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
 and [Department of Political Science](https://polisci.wustl.edu/) at
 [Washington University in St. Louis](https://wustl.edu/). I am also an
@@ -29,4 +31,4 @@ focus on civil conflict, I also examine contentious political phenomena
 including terrorism and economic statecraft, and develop new measures of
 institutions in international relations. I have [teaching](teaching) experience
 in both international relations and quantitative methodology, and am a certified
-instructor with [The Carpentries](https://carpentries.org/).
+instructor with [The Carpentries](https://carpentries.org/). -->
