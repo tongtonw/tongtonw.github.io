@@ -1,12 +1,9 @@
 ---
-title: "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts"
+title: "Parameter identification of ship manoeuvring model under disturbance using support vector machine method"
 collection: publications
 permalink: /publication/2021-conflict-preemption
-date: 2021-06-28
-venue: 'Conflict management and Peace Science'
-paperurl: '/files/pdf/research/Turning the Lights on.pdf'
-link: 'https://doi.org/10.1177/07388942211015242'
-code: 'https://journals.sagepub.com/doi/suppl/10.1177/07388942211015242'
-github: 'https://github.com/jayrobwilliams/conflict-preemption'
-citation: 'Williams, Rob. 2021. &quot;Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts.&quot; <i>Conflict management and Peace Science</i> doi:10.1177/07388942211015242'
+date: 2021-04-10
+venue: 'Ships and Offshore Structures'
+link: 'https://doi.org/10.1080/17445302.2021.1927600'
+citation: Tongtong Wang, Guoyuan Li, Baiheng Wu, Vilmar Æsøy & Houxiang Zhang (2021) Parameter identification of ship manoeuvring model under disturbance using support vector machine method, <i>Ships and Offshore Structures</i>, 16:sup1, 13-21.
 ---
