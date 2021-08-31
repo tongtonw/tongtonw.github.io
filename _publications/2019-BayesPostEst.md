@@ -1,10 +1,10 @@
 ---
-title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+title: "Navigating patterns analysis for on-board guidance support in crossing collision avoidance operations"
 collection: publications
-permalink: /publication/2019-bayespostest
+permalink: /publication/2021-itsm-navigating
 date: 2019-10-01
-venue: 'Journal of Open Source Software'
-paperurl: '/files/pdf/research/BayesPostEst.pdf'
-link: 'https://doi.org/10.21105/joss.01722'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+venue: ' IEEE IntelligentTransportation Systems Magazine'
+paperurl: '/files/pdf/BWu-CV-2021.pdf'
+link: 'https://org.ntnu.no/intelligentsystemslab/publication.html'
+citation: Baiheng Wu, Guoyuan Li, Luman Zhao, Hans-Ingar Johansen Aandahl, Hans Petter Hildre and Houxiang Zhang. Navigating patterns analysis for on-board guidance support in crossing collision avoidance operations. <i>IEEE IntelligentTransportation Systems Magazine.</i>2021'
 ---
