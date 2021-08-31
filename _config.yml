@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : #"goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
@@ -91,7 +91,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-1824-6784"
   googlescholar    : "https://scholar.google.no/citations?user=fS7hgA4AAAAJ"
   email            : "baiheng.wu@ntnu.no"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Baiheng-Wu"
+  researchgate     : "https://www.researchgate.net/profile/Baiheng-Wu"
   uri              :
   bitbucket        :
   codepen          :
