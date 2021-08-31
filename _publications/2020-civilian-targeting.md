@@ -1,11 +1,10 @@
 ---
-title: "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone"
+title: " human-expertise based statistical method foranalysis of log data from a commuter ferry"
 collection: publications
-permalink: /publication/2020-civilian-targeting
-date: 2020-06-08
-venue: 'International Studies Quarterly'
-paperurl: '/files/pdf/research/Under the Roof of Rebels.pdf'
-link: 'https://doi.org/10.1093/isq/sqaa009'
-code: 'https://doi.org/10.7910/DVN/BEKPWV'
-citation: 'Oswald, Christian, Melanie Sauter, Sigrid Weber, and Rob Williams.<sup>*</sup> 2020. &quot;Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone.&quot; <i>International Studies Quarterly</i> 64(2): 295–305. doi:10.1093/isq/sqaa009'
+permalink: /publication/2020-iciea-human
+date: 2020-06-30
+venue: '15th IEEE Conference on Industrial Electronics and Applications(ICIEA) ('
+paperurl: '/files/pdf/research/2020-iciea-human.pdf'
+link: 'https://doi.org/10.1109/ICIEA48937.2020.9248300'
+citation: 'Wu, B., Li, G., Zhao, L., Hildre, H. P., & Zhang, H. (2020, November). A human-expertise based statistical method foranalysis of log data from a commuter ferry.  In 2020 <i>15th IEEE Conference on Industrial Electronics and Applications(ICIEA)</i> (pp.  1471-1477).  IEEE.3, 2020.'
 ---
