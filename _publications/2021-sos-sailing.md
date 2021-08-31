@@ -1,5 +1,5 @@
 ---
-title: "Sailing status recognition to enhance safety awarenessand path routing for a commuter ferry"
+title: "Sailing status recognition to enhance safety awareness and path routing for a commuter ferry"
 collection: publications
 permalink: /publication/2021-sos-sailing
 date: 2021-04-10
