@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! Hello!
+Welcome to Baiheng's website!
 
 <!-- I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
