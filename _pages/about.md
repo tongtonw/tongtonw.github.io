@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Baiheng's website!
+Welcome to Baiheng's website! Baiheng is currently a Ph.D. candidate at the Department of Ocean Operations and Civil Engineering at the Norwegian University of Science and Technology (NTNU) in Ålesund, Norway.
 
 <!-- I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
